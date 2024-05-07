@@ -4,6 +4,6 @@ How to use
 2.type the ip and port of your desired Reverse shell
 3type nc -lvnp {port}
 4.Get your Victim
-
+5.(Optional)Default ip is 192.168.1.18:8000 if you want easier change your ip to that and use port 800 in netcat
 
 -Happy hacking!
